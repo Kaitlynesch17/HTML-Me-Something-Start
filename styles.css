@@ -1,1 +1,56 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    padding: 70px;
+    background-color: aliceblue;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+
+}
+
+figcaption {
+    font-style: italic;
+}
+
+figure {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+
+ul li{
+    display: inline-block;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: larger;
+}
+
+section {
+    padding: 20px;
+    
+}
+p {
+    text-align: center;
+}
+
+aside {
+ text-align: center;
+
+}
+
+footer {
+    text-align: right;
+}
